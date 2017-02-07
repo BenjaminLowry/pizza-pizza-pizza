@@ -12,6 +12,8 @@
 		5FAAA1971E42BC4A0075AB36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FAAA1951E42BC4A0075AB36 /* Main.storyboard */; };
 		5FAAA1991E42BC4A0075AB36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FAAA1981E42BC4A0075AB36 /* Assets.xcassets */; };
 		5FAAA19C1E42BC4A0075AB36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FAAA19A1E42BC4A0075AB36 /* LaunchScreen.storyboard */; };
+		5FAAA1A41E42C2E70075AB36 /* pizza-slice-icon-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FAAA1A31E42C2E70075AB36 /* pizza-slice-icon-6.png */; };
+		5FAAA1A61E42D18F0075AB36 /* Pepperoni-Pizza.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FAAA1A51E42D18F0075AB36 /* Pepperoni-Pizza.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		5FAAA1981E42BC4A0075AB36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FAAA19B1E42BC4A0075AB36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FAAA19D1E42BC4A0075AB36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FAAA1A31E42C2E70075AB36 /* pizza-slice-icon-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pizza-slice-icon-6.png"; sourceTree = "<group>"; };
+		5FAAA1A51E42D18F0075AB36 /* Pepperoni-Pizza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pepperoni-Pizza.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 			children = (
 				5FAAA1901E42BC4A0075AB36 /* PizzaPizzaPizza */,
 				5FAAA18F1E42BC4A0075AB36 /* Products */,
+				5FAAA1A31E42C2E70075AB36 /* pizza-slice-icon-6.png */,
+				5FAAA1A51E42D18F0075AB36 /* Pepperoni-Pizza.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,7 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5FAAA19C1E42BC4A0075AB36 /* LaunchScreen.storyboard in Resources */,
+				5FAAA1A41E42C2E70075AB36 /* pizza-slice-icon-6.png in Resources */,
 				5FAAA1991E42BC4A0075AB36 /* Assets.xcassets in Resources */,
+				5FAAA1A61E42D18F0075AB36 /* Pepperoni-Pizza.png in Resources */,
 				5FAAA1971E42BC4A0075AB36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
